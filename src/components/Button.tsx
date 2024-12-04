@@ -11,7 +11,6 @@ function Button({
   primary = false,
   label,
   backgroundColor = "hsl(204, 89%, 50%)",
-
   size = "md",
   onClick,
   ...props

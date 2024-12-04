@@ -1,4 +1,3 @@
-// import Button, { ButtonProps } from "../components/Button";
 import type { Meta, StoryObj } from "@storybook/react";
 import { fn } from "@storybook/test";
 
