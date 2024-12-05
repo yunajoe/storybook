@@ -1,0 +1,18 @@
+.input-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+}
+.input-label {
+  margin-bottom: 4px;
+}
+.input {
+  outline: none;
+  padding: 10px;
+}
+
+.input-error {
+  color: red;
+  font-weight: 900;
+  font-size: 12px;
+}
